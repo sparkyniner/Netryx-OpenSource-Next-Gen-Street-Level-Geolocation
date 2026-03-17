@@ -312,7 +312,7 @@ Netryx is free and open source. The optional AI Coarse feature requires a Gemini
 
 ## Built By
 
-**Sairaj Balaji** — AI researcher and founder of PrismX. Grants from Microsoft and ElevenLabs. Featured in Fast Company and Deutsche Welle.
+**Sairaj Balaji** — AI researcher and creator of PrismX. Grants from Microsoft for Startups and ElevenLabs. Featured in Fast Company and Deutsche Welle.
 
 - [LinkedIn](https://www.linkedin.com/in/sairaj-balaji-7295b2246/)
   
